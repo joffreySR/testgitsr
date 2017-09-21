@@ -2,4 +2,7 @@
 
 Il y avait un violon sur le toit.
 Un chat monta sur le toit.
-Il s'approcha du violon et le fis tomber.
+Il s'approcha du violon et le fit tomber.
+Le chat par peur sauta pour rattraper le violont.
+
+
